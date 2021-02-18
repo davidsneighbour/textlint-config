@@ -44,7 +44,7 @@
     "@dnb-hugo/remark-preset-lint": "github:dnb-hugo/remark-preset-lint",
     "@dnb-hugo/standard-version-config": "github:dnb-hugo/standard-version-config",
     "husky": "4.3.8",
-    "standard-version": "9.1.0"
+    "standard-version": "9.1.1"
   },
   "engines": {
     "node": ">=14.0.0",
